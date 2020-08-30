@@ -16,3 +16,5 @@
 Canakit
 
 [youtube](https://www.youtube.com/watch?v=BpJCAafw2qE)
+
+[Raspberry Pi — First Boot](https://medium.com/jungletronics/how-to-set-up-a-headless-raspberry-pi-9edcbc3597c2)
