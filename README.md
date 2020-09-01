@@ -16,3 +16,8 @@
 Canakit
 
 [youtube](https://www.youtube.com/watch?v=BpJCAafw2qE)
+
+[Minimum Required](https://itsfoss.com/things-you-need-to-get-your-raspberry-pi-working/)
+
+[Simulator](https://devblogs.microsoft.com/python/iot-exploration-with-vs-code-python-and-the-device-simulator-express/)
+[Projects](https://magpi.raspberrypi.org/books/projects-5)
