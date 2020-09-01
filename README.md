@@ -21,3 +21,4 @@ Canakit
 
 [Simulator](https://devblogs.microsoft.com/python/iot-exploration-with-vs-code-python-and-the-device-simulator-express/)
 [Projects](https://magpi.raspberrypi.org/books/projects-5)
+[Raspberry Pi — First Boot](https://medium.com/jungletronics/how-to-set-up-a-headless-raspberry-pi-9edcbc3597c2)
