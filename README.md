@@ -22,3 +22,36 @@ Canakit
 [Simulator](https://devblogs.microsoft.com/python/iot-exploration-with-vs-code-python-and-the-device-simulator-express/)
 [Projects](https://magpi.raspberrypi.org/books/projects-5)
 [Raspberry Pi — First Boot](https://medium.com/jungletronics/how-to-set-up-a-headless-raspberry-pi-9edcbc3597c2)
+
+## To upgrade throug terminal
+```cmd
+    sudo apt update
+    sudo apt upgrade
+```
+
+## Connecting remotely
+* Using SSH
+    * Enable SSH 
+    * Findout ip address (through **ipconfig** in terminal)
+    * On host machine(windows/mac)
+        * ssh yourusername@198.51.100.0  (use the actual ip address here )
+* Using Virtual Network Computing
+    * [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/)
+    * One can connect from anywhere in the world using real VNC account and registrering
+* Programming
+    * Node-Red
+        * Run Node-Red console
+        * http://localhost:1880
+        * [more](http://nodered.org)
+    * Thonny for Python
+    * Sonic Pi (music)
+    * GreenFoot for java
+    * Geany (for C,HTML,Java, PHP)
+* Resources
+    * [Begineers Book](https://store.rpipress.cc/products/the-official-raspberry-pi-beginners-guide-3rd-edition)
+    * [Documentation](http://rpf.io/docs)
+    * [Electronics Project](http://rpf.io/gpiozero)
+    * [Magpi issues](http://magpi.cc/issues)
+    * [Command Line](http://magpi.cc/clibook)
+    * [Making Minecrart](http://magpi.cc/MCBook)
+    * [Python Games](http://magpi.cc/rtfkvd)
